@@ -1,0 +1,291 @@
+JMS : 1
+Maven : 1
+aws : 1
+Atlassian Jira : 1
+Atlassian Confluence : 1
+php7 : 1
+Hover : 1
+onClik : 1
+Parallax : 1
+JS-фреймворки : 1
+reactJS : 1
+Less : 1
+vue : 1
+js : 1
+SaaS : 1
+JS : 1
+ES5/6/7 : 1
+SCSS : 1
+PL/pgSQL : 1
+Java SE : 1
+MariaDB : 1
+LAMP : 1
+Modx : 1
+Инициативность : 1
+Интеграции по API : 1
+Golang : 1
+Go : 1
+react.js : 1
+React native : 1
+ASP.NET Core 2 Web API : 1
+.NET Core 2 : 1
+Angular 6 : 1
+Bootstrap 4 : 1
+Управление разработкой : 1
+NixOS : 1
+yii2 : 1
+1C-Bitrix : 1
+D7 : 1
+LLVM : 1
+Rust : 1
+Forth : 1
+Node JS : 1
+Solidity : 1
+Создание сайтов : 1
+Продвижение сайтов : 1
+Контекстная реклама : 1
+Поисковая оптимизация сайтов : 1
+Анализ посещаемости сайтов : 1
+Internet Marketing : 1
+Яндекс.Директ : 1
+Google AdWords : 1
+Продвижение бренда : 1
+Планирование рекламных кампаний : 1
+Копирайтинг : 1
+Маркетинговый анализ : 1
+cURL : 1
+Django : 1
+GraphQL : 1
+Docker : 1
+Amazon AWS : 1
+Fluss : 1
+Angular 4 : 1
+Angular 2 : 1
+ASP.NET Core : 1
+Core MVC : 1
+хранимые процедуры через ADO.NET : 1
+E-Commerce : 1
+JavaScript, jQuery, ajax : 1
+Elasticsearch : 1
+UX : 1
+Проектирование пользовательских интерфейсов : 1
+Usability : 1
+Дизайн интерфейсов : 1
+Графический дизайн : 1
+Прототипирование : 1
+Adobe InDesign : 1
+NetCat : 1
+IIS : 1
+C#7.0 : 1
+Type Script : 1
+VS2017 : 1
+GITHUB : 1
+Redmine : 1
+Zabbix : 1
+PetaPoco : 1
+NUnit : 1
+Unity : 1
+Elmah : 1
+PixiJS : 1
+three.js : 1
+phaser : 1
+WebGL : 1
+playable ads : 1
+Gamedev : 1
+Express : 1
+VueJS : 1
+Разработка CMS : 1
+Nativescript : 1
+MS Dynamics CRM : 1
+PHPUnit : 1
+Behat : 1
+sass/less : 1
+Object Oriented Design : 1
+Тестирование : 1
+Test case : 1
+TestNG : 1
+Автоматизация тестирования : 1
+Автотестирование : 1
+Тестирование ПО : 1
+Yii2 : 1
+PHP7 : 1
+Continuous Integration : 1
+SOLID : 1
+ES6/ES7 : 1
+React/Redux : 1
+Битрикс24 : 1
+Struts 2 : 1
+JSP : 1
+EJB : 1
+Vue : 1
+ES6+ : 1
+MySQL GUI Tools : 1
+YII2 : 1
+Составление семантического ядра : 1
+SEO оптимизация : 1
+Celery : 1
+Ionic : 1
+MODx : 1
+адаптивная верстка : 1
+Кроссбраузерная верстка : 1
+Управление командой : 1
+Работа в команде : 1
+Agile Project Management : 1
+Scrum : 1
+Управление проектами : 1
+json : 1
+Верстка : 1
+Cordova : 1
+Transact-SQL : 1
+ADO.NET : 1
+Cryptocurrency : 1
+CTO : 1
+System Architect : 1
+FinTech : 1
+Azure : 1
+scss : 1
+JUnit : 1
+Java EE : 2
+kotlin : 2
+react : 2
+Sass : 2
+cron : 2
+laravel : 2
+Администрирование серверов Linux : 2
+TDD : 2
+Hibernate ORM : 2
+Web Design : 2
+Наполнение контентом : 2
+Яндекс.Метрика : 2
+modx : 2
+Karma/Mocha : 2
+Angular 2.0 : 2
+SqlLite : 2
+Sequlize : 2
+OpenCart : 2
+ES6 : 2
+Администрирование сайтов : 2
+Gulp : 2
+Mobile : 2
+Веб-разработка : 2
+Drupal API : 2
+Magento : 2
+SPA frameworks : 2
+Webapi : 2
+ReactJS : 2
+websocket : 2
+SignalR : 2
+Angular : 2
+SPA : 2
+Внешняя оптимизация сайта : 2
+Внутренняя оптимизация сайта : 2
+vue.js : 2
+HTTP : 2
+Ruby : 2
+Ruby On Rails : 2
+LINQ : 2
+Adobe After Effect : 2
+Adobe Premier Pro : 2
+Видеомонтаж : 2
+Adobe Illustrator : 2
+Баннерная реклама : 2
+Opencart : 2
+Kotlin : 2
+Bitrix : 2
+Cassandra : 2
+С# : 2
+Electron : 3
+Flask : 3
+Blockchain : 3
+SVN : 3
+Интернет-реклама : 3
+SEO : 3
+WebSocket : 3
+Webpack : 3
+REST API : 3
+Vue.js : 3
+ModX : 3
+Groovy : 3
+Multithread Programming : 3
+REST APIs : 3
+SOAP : 4
+Spring Boot : 4
+AWS : 4
+Pentaho : 4
+Birst : 4
+Power BI : 4
+Agile : 4
+Angular 5 : 4
+Swift : 4
+iOS : 4
+React Native : 4
+Веб-дизайн : 4
+Objective-C : 4
+Typescript : 4
+Sphinx : 4
+API : 5
+Разработка ПО : 5
+JSON API : 5
+Apache HTTP Server : 5
+TypeScript : 5
+Distributed systems : 5
+UI : 5
+Web-дизайн : 5
+Laravel : 5
+Zend Framework : 5
+RabbitMQ : 5
+ORACLE : 5
+Web Application Development : 6
+Android : 6
+Joomla CMS : 6
+WPF : 6
+Nginx : 6
+C++ : 6
+MS Visual Studio : 7
+Symfony : 7
+Веб-программирование : 8
+Adobe Photoshop : 8
+REST : 9
+CMS Wordpress : 9
+Английский язык : 9
+XML : 9
+Entity Framework : 10
+Spring Framework : 11
+Yii : 11
+WCF : 11
+MongoDB : 11
+MS SQL Server : 12
+Redis : 12
+Django Framework : 13
+NoSQL : 13
+Redux : 13
+React.js : 13
+MS SQL : 15
+React : 16
+AngularJS : 17
+MVC : 18
+PHP5 : 19
+Node.js : 20
+ASP.NET : 20
+Bash : 20
+Composer : 20
+PostgreSQL : 21
+Linux : 21
+C# : 21
+.NET Framework : 21
+Bootstrap : 24
+Python : 25
+CSS3 : 26
+ООП : 26
+Java : 28
+Ajax : 29
+SQL : 34
+jQuery : 41
+1С-Битрикс : 43
+HTML5 : 45
+MySQL : 51
+HTML : 67
+PHP : 76
+CSS : 82
+Git : 89
+JavaScript : 145

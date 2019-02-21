@@ -1,0 +1,355 @@
+django-rest-framework : 1
+react : 1
+Frontend : 1
+Backend : 1
+PL/pgSQL : 1
+Magento : 1
+UI : 1
+Управление разработкой : 1
+Архитектура : 1
+MariaDB : 1
+Django-rest-framework : 1
+Amazon AWS : 1
+Deep learning : 1
+NumPy : 1
+P2P : 1
+Atlassian Jira : 1
+Математическое программирование : 1
+REST API : 1
+backend : 1
+Code-review : 1
+SQLite : 1
+React JS : 1
+RESTFul API : 1
+Swift : 1
+Unit Testing : 1
+AIOHTTP : 1
+Scrapy : 1
+Парсер : 1
+SEO : 1
+Adobe Illustrator : 1
+CorelDRAW : 1
+Adobe InDesign : 1
+CMS Wordpress : 1
+Adobe Photoshop : 1
+Управление проектами : 1
+Delphi : 1
+Android SDK : 1
+Typescript : 1
+Artificial Intelligence : 1
+Computer Vision : 1
+Data Science : 1
+Deep Learning : 1
+scrapy : 1
+Разработка ПО : 1
+Веб-дизайн : 1
+Qt : 1
+QML : 1
+DNS : 1
+Compiler : 1
+Mocha : 1
+Shell Scripting : 1
+XML-RPC : 1
+DevTest : 1
+Development testing : 1
+CI : 1
+Entity Extraction : 1
+regEx : 1
+spaCy : 1
+Работа в команде : 1
+Sentiment Analysis : 1
+Cython : 1
+Document Classification : 1
+Tensorflow : 1
+Data Mining : 1
+Splunk : 1
+BeeGo : 1
+Martini : 1
+Revel : 1
+Debian : 1
+Terraform : 1
+IPTables : 1
+СУБД : 1
+Prometheus : 1
+Elasticsearch : 1
+clojure : 1
+sklearn : 1
+mobile : 1
+Security Engineer : 1
+security : 1
+MySQL / PostgreSQL : 1
+Фондовый рынок : 1
+Ценные бумаги : 1
+Инвестиции : 1
+Аналитические исследования : 1
+Трейдинг : 1
+Lua : 1
+Quik : 1
+Windows Servers : 1
+NET Framework and .NET Core : 1
+Ruby On Rails : 1
+парсер : 1
+Ручное тестирование : 1
+Регресcионное тестирование : 1
+CUDA : 1
+OpenCL : 1
+ORM : 1
+Laravel : 1
+Symfony : 1
+1С программирование : 1
+1С: Предприятие 8 : 1
+1С: Управление Торговлей : 1
+Управленческий учет : 1
+1С: Комплексная автоматизация : 1
+ERP : 1
+преподавание : 1
+RDS : 1
+SPF : 1
+DKIM : 1
+DMARC : 1
+distributed systems : 1
+Автоматизация тестирования : 1
+REST/SOAP : 1
+SoapUI : 1
+Математический анализ : 1
+Математическая статистика : 1
+Обработка изображений : 1
+Обработка видео : 1
+3D : 1
+Frontend разработка : 1
+Packer : 1
+EC2 : 1
+CloudWatch : 1
+CloudFront : 1
+awk : 1
+Nagios : 1
+Customer Support : 1
+Настройка серверов Apache : 1
+Amazon Web Services : 1
+Solutions Architect : 1
+Администрирование серверов Windows : 1
+XML : 2
+Django : 2
+Apache HTTP Server : 2
+ASP.NET : 2
+MVC : 2
+Web Application Development : 2
+ORACLE : 2
+Groovy : 2
+Multithread Programming : 2
+Machine learning : 2
+SSL : 2
+Go : 2
+Асинхронное программирование : 2
+Objective-C : 2
+TDD : 2
+Bootstrap : 2
+Android : 2
+Natural Language Processing : 2
+Test case : 2
+Google Firebase Test Lab : 2
+Testing : 2
+Mathematical Modeling : 2
+Neural Networks : 2
+Анализ данных : 2
+Data Analysis : 2
+Vagrant : 2
+Ansible : 2
+TensorFlow : 2
+Leadership Skills : 2
+Разработка технических заданий : 2
+CI-система Jenkins : 2
+Selenium : 2
+Pytest : 2
+Multithreading : 2
+Allure : 2
+Анализ требований : 2
+Базы данных : 2
+Business intelligence : 2
+Датамайнинг : 2
+Autodesk 3ds Max : 2
+ArcGIS : 2
+ГИС : 2
+Ext JS : 2
+Transact-SQL : 2
+ML algorithms : 2
+machine learning : 2
+Information Security : 2
+reverse engineering : 2
+web attacks : 2
+penetration testing : 2
+security assessments : 2
+Bamboo : 2
+Unix Shell Scripts : 2
+Kubernetes : 3
+Веб-программирование : 3
+HTML5 : 3
+Cassandra : 3
+Celery : 3
+Redux : 3
+iOS : 3
+Vue.js : 3
+Big Data : 3
+testing : 3
+test : 3
+quality : 3
+Scrum : 3
+jira : 3
+protractor : 3
+automation : 3
+cnode : 3
+jsappium : 3
+dom : 3
+jdk : 3
+Intellij IDEA : 3
+apache : 3
+typescript : 3
+jasmine : 3
+sdet : 3
+software development testing : 3
+executive : 3
+technical : 3
+Product Management : 3
+cto : 3
+director : 3
+system architecture : 3
+technical architecture : 3
+containerization : 3
+saasops : 3
+software : 3
+network : 3
+system administration : 3
+Engineering : 3
+iaas : 3
+paas : 3
+cloud computing : 3
+orchestration : 3
+Perl : 3
+system admin : 3
+sre : 3
+cloud migration : 3
+azure : 3
+ibm cloud : 3
+VMware : 3
+Yii : 3
+Сбор и анализ информации : 3
+Поиск информации в интернет : 3
+Работа с базами данных : 3
+Деловая переписка : 3
+Работа с большим объемом информации : 3
+CI-системы Jenkins : 3
+Руководство коллективом : 3
+Автоматизированное тестирование : 3
+highload : 3
+elasticsearch : 3
+vagrant : 3
+Apache : 3
+Amazon S3 : 3
+packer : 3
+Auto Scaling : 3
+Elastic Load Balance : 3
+SRE : 3
+ELK : 3
+Golang : 4
+Devops : 4
+Flask : 4
+CSS3 : 4
+GraphQL : 4
+Spring Framework : 4
+MS SQL : 4
+Grafana : 4
+Protractor : 4
+Katalon : 4
+Тестирование пользовательского интерфейса : 4
+amazon : 4
+OpenLDAP : 4
+Networking : 4
+PowerShell : 4
+Cloud computing : 4
+System architecture : 4
+System Administration : 4
+Puppet : 4
+aws : 5
+C/C++ : 5
+Distributed systems : 5
+Ajax : 5
+PHP5 : 5
+Hadoop : 5
+Power BI : 5
+Kafka : 5
+REST APIs : 5
+TCP/IP : 5
+Проведение тестирований : 5
+TeamCity : 5
+Virtualization : 5
+Функциональное тестирование : 5
+terraform : 5
+kubernetes : 5
+ansible : 5
+Zabbix : 5
+Pl/Python : 6
+JSON API : 6
+Spark : 6
+.NET Framework : 6
+HTTP : 6
+Machine Learning : 6
+engineer : 6
+remote : 6
+architect : 6
+cloud : 6
+SaaS : 6
+devops : 6
+Тестирование : 6
+chef : 6
+MS SQL Server : 6
+ML : 6
+TypeScript : 7
+Agile : 7
+ReactJS : 7
+ES6/ES7 : 7
+DevOps : 7
+data scientist : 7
+NLP : 7
+Basic Statistics : 7
+scikit-learn : 7
+Bash : 8
+Selenium IDE : 8
+docker : 8
+React : 9
+Администрирование серверов Linux : 9
+REST : 9
+API : 9
+Unix : 9
+QA : 9
+work from home : 9
+NoSQL : 10
+ООП : 10
+Nginx : 10
+Redis : 10
+Business English : 10
+React.js : 11
+jQuery : 12
+MongoDB : 12
+Jenkins : 12
+C# : 13
+RabbitMQ : 13
+English : 14
+Ruby : 15
+PHP : 15
+C++ : 16
+AWS : 17
+CSS : 19
+Node.js : 19
+Docker : 20
+MySQL : 20
+Английский язык : 23
+AngularJS : 24
+HTML : 25
+Java : 29
+PostgreSQL : 33
+SQL : 39
+Linux : 51
+Django Framework : 54
+Git : 55
+JavaScript : 70
+Python : 144
